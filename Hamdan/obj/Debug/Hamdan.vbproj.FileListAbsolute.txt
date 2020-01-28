@@ -11,3 +11,16 @@ C:\Users\zainal arifin\Documents\Visual Studio 2012\Projects\Hamdan\Hamdan\obj\D
 C:\Users\zainal arifin\Documents\Visual Studio 2012\Projects\Hamdan\Hamdan\obj\Debug\Hamdan.exe
 C:\Users\zainal arifin\Documents\Visual Studio 2012\Projects\Hamdan\Hamdan\obj\Debug\Hamdan.xml
 C:\Users\zainal arifin\Documents\Visual Studio 2012\Projects\Hamdan\Hamdan\obj\Debug\Hamdan.pdb
+D:\KELAS 11\BU ATIK\Hamdan\Hamdan\bin\Debug\Hamdan.exe.config
+D:\KELAS 11\BU ATIK\Hamdan\Hamdan\obj\Debug\Hamdan.exe
+D:\KELAS 11\BU ATIK\Hamdan\Hamdan\obj\Debug\Hamdan.xml
+D:\KELAS 11\BU ATIK\Hamdan\Hamdan\obj\Debug\Hamdan.pdb
+D:\KELAS 11\BU ATIK\Hamdan\Hamdan\obj\Debug\Hamdan.Form1.resources
+D:\KELAS 11\BU ATIK\Hamdan\Hamdan\obj\Debug\Hamdan.Form2.resources
+D:\KELAS 11\BU ATIK\Hamdan\Hamdan\obj\Debug\Hamdan.Form3.resources
+D:\KELAS 11\BU ATIK\Hamdan\Hamdan\obj\Debug\Hamdan.Form4.resources
+D:\KELAS 11\BU ATIK\Hamdan\Hamdan\obj\Debug\Hamdan.Resources.resources
+D:\KELAS 11\BU ATIK\Hamdan\Hamdan\obj\Debug\Hamdan.vbproj.GenerateResource.Cache
+D:\KELAS 11\BU ATIK\Hamdan\Hamdan\bin\Debug\Hamdan.exe
+D:\KELAS 11\BU ATIK\Hamdan\Hamdan\bin\Debug\Hamdan.pdb
+D:\KELAS 11\BU ATIK\Hamdan\Hamdan\bin\Debug\Hamdan.xml

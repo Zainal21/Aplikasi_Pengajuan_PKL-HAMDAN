@@ -10,7 +10,7 @@ Public Class Form1
         If TextBox1.Text = "" Or TextBox2.Text = "" Then
             MsgBox("Username atau password belum diisi")
         Else
-            Call connec()
+            Call koneksi()
             cmd = New OleDbCommand("select * from Member where Username='" & TextBox1.Text & "'and Password='" & TextBox2.Text & "'", conn)
             dr = cmd.ExecuteReader
             dr.Read()

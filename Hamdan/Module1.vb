@@ -5,8 +5,8 @@ Module Module1
     Public dr As OleDbDataReader
     Public da As OleDbDataAdapter
     Public ds As DataSet
-    Sub connec()
-        conn = New OleDbConnection("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=DBHamdan.mdb")
+    Sub koneksi()
+        conn = New OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=DBHamdan.accdb")
         conn.Open()
     End Sub
 End Module

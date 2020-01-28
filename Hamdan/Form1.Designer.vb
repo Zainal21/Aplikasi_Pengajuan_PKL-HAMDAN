@@ -33,7 +33,7 @@ Partial Class Form1
         'TextBox1
         '
         Me.TextBox1.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox1.Location = New System.Drawing.Point(267, 244)
+        Me.TextBox1.Location = New System.Drawing.Point(258, 144)
         Me.TextBox1.Margin = New System.Windows.Forms.Padding(6, 5, 6, 5)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(376, 27)
@@ -42,7 +42,7 @@ Partial Class Form1
         'TextBox2
         '
         Me.TextBox2.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox2.Location = New System.Drawing.Point(267, 152)
+        Me.TextBox2.Location = New System.Drawing.Point(258, 236)
         Me.TextBox2.Margin = New System.Windows.Forms.Padding(6, 5, 6, 5)
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(376, 27)
