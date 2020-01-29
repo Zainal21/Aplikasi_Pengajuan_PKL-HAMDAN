@@ -48,7 +48,7 @@ Partial Class Form2
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(195, 43)
         Me.Button2.TabIndex = 1
-        Me.Button2.Text = "Pengajuan Surat"
+        Me.Button2.Text = "Pengajuan Surat pkl"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Button3
@@ -98,7 +98,7 @@ Partial Class Form2
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(195, 43)
         Me.Button4.TabIndex = 7
-        Me.Button4.Text = "Hasil Pengajuan"
+        Me.Button4.Text = "Keterangan lulus"
         Me.Button4.UseVisualStyleBackColor = True
         '
         'Form2
